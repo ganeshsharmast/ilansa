@@ -1,0 +1,314 @@
+[13-Nov-2023 08:00:03 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:00:03 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:00:24 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:00:24 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:02:21 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:02:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:02:52 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:02:52 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:03:24 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:03:24 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:03:31 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:03:31 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:07:44 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:07:44 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:08:54 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:08:54 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:12:17 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:12:17 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:12:21 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:12:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:15:46 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:15:46 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:20:48 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:20:48 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:21:01 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:21:01 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:22:18 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:22:18 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:26:17 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:26:17 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:28:19 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:28:19 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:29:53 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:30:39 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:30:39 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:32:04 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:33:51 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:33:51 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:35:39 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:38:11 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:38:11 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:38:14 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:38:14 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:39:08 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:39:08 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:39:33 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:39:33 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:40:48 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:40:48 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:43:24 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 08:43:24 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:36:29 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:36:29 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:36:47 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:36:47 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:37:17 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:37:17 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:38:45 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:38:45 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:48:21 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:48:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:55:02 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:55:02 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:58:10 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 10:58:10 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 11:01:29 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 11:01:29 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 11:03:32 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 11:03:32 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 11:21:58 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 11:21:58 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 11:29:15 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 11:29:15 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 13:58:12 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[13-Nov-2023 13:58:12 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 08:58:21 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 08:58:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 08:59:26 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 08:59:26 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 08:59:47 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 08:59:47 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:00:19 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:00:19 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:00:26 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:00:26 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:00:54 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:00:54 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:01:03 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:01:03 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:01:28 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:01:28 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:01:53 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:01:53 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:02:44 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:02:44 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:03:01 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:03:01 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:03:25 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:03:25 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:03:32 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:03:32 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:05:30 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:05:30 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:09:43 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:09:43 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:11:12 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:11:12 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:19:35 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:19:35 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 34
+[27-Nov-2023 09:42:06 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/shaihwwp/ilansa.shailtech.com/vendor/composer/platform_check.php on line 24
+[27-Nov-2023 09:52:54 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/shaihwwp/ilansa.shailtech.com/vendor/composer/platform_check.php on line 24
+[27-Nov-2023 09:53:26 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/shaihwwp/ilansa.shailtech.com/vendor/composer/platform_check.php on line 24
+[27-Nov-2023 09:54:28 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/shaihwwp/ilansa.shailtech.com/vendor/composer/platform_check.php on line 24
+[24-Jan-2024 13:39:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/CartController.php on line 75
+[28-Mar-2024 17:53:41 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/UserController.php on line 103
+[30-Mar-2024 16:28:07 UTC] PHP Fatal error:  Cannot use lexical variable $query as a parameter name in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/ServiceController.php on line 348
+[31-Mar-2024 09:57:34 UTC] PHP Fatal error:  Class App\Models\Company contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (Tymon\JWTAuth\Contracts\JWTSubject::getJWTIdentifier, Tymon\JWTAuth\Contracts\JWTSubject::getJWTCustomClaims) in /home/shaihwwp/ilansa.shailtech.com/app/Models/Company.php on line 14
+[23-Apr-2024 12:56:24 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\OrderController::list() in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/OrderController.php on line 129
+[10-May-2024 16:10:21 UTC] PHP Fatal error:  Cannot declare class App\Models\OrderStatus, because the name is already in use in /home/shaihwwp/ilansa.shailtech.com/app/Models/WorkStatus.php on line 0
+[10-May-2024 16:11:07 UTC] PHP Fatal error:  Cannot declare class App\Models\OrderStatus, because the name is already in use in /home/shaihwwp/ilansa.shailtech.com/app/Models/WorkStatus.php on line 0
+[10-May-2024 16:12:07 UTC] PHP Fatal error:  Cannot declare class App\Models\OrderStatus, because the name is already in use in /home/shaihwwp/ilansa.shailtech.com/app/Models/WorkStatus.php on line 0
+[27-May-2024 17:23:45 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 803213312 bytes) in /home/shaihwwp/ilansa.shailtech.com/app/Http/Middleware/AdminAuthenticated.php on line 20
+[30-May-2024 17:49:30 UTC] PHP Fatal error:  'goto' to undefined label 'ChatOrder' in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/UserController.php on line 746
+[30-May-2024 17:51:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/shaihwwp/ilansa.shailtech.com/app/Http/Middleware/VerifyCsrfToken.php on line 29
+[01-Jun-2024 06:40:35 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 803213312 bytes) in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/Admin/AdminAuthController.php on line 21
+[01-Jun-2024 07:10:20 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shaihwwp/ilansa.shailtech.com/app/Models/Admin.php on line 3
+[01-Jun-2024 07:11:31 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shaihwwp/ilansa.shailtech.com/app/Models/Admin.php on line 3
+[01-Jun-2024 07:12:18 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shaihwwp/ilansa.shailtech.com/app/Models/Admin.php on line 3
+[01-Jun-2024 07:16:06 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shaihwwp/ilansa.shailtech.com/app/Models/Admin.php on line 3
+[01-Jun-2024 07:17:39 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shaihwwp/ilansa.shailtech.com/app/Models/Admin.php on line 3
+[01-Jun-2024 07:17:57 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/shaihwwp/ilansa.shailtech.com/app/Models/Admin.php on line 3
+[04-Jun-2024 18:16:50 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::sendChatMsg() in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/UserController.php on line 1133
+[05-Jun-2024 06:37:48 UTC] PHP Fatal error:  Cannot redeclare App\Models\UserServiceRequest::$table in /home/shaihwwp/ilansa.shailtech.com/app/Models/UserServiceRequest.php on line 24
+[08-Jun-2024 14:13:37 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\OrderController::detail() in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/OrderController.php on line 608
+[16-Jun-2024 14:48:09 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\OrderController::detail() in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/OrderController.php on line 615
+[16-Jun-2024 14:48:22 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\OrderController::detail() in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/OrderController.php on line 615
+[17-Jun-2024 16:00:45 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::userView() in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/UserController.php on line 1187
+[18-Jun-2024 12:38:30 UTC] PHP Fatal error:  Cannot use App\Models\Products as Products because the name is already in use in /home/shaihwwp/ilansa.shailtech.com/app/Models/ServiceProducts.php on line 9
+[21-Jun-2024 13:14:57 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ServiceController::delete() in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/ServiceController.php on line 488
+[23-Jun-2024 17:34:16 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SubServicesController::view() in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/SubServicesController.php on line 87
+[24-Jun-2024 06:31:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 803213312 bytes) in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/OrderController.php on line 596
+[24-Jun-2024 06:31:33 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 534777856 bytes) in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/OrderController.php on line 596
+[04-Jul-2024 17:11:38 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\ChatController, because the name is already in use in /home/shaihwwp/ilansa.shailtech.com/app/Http/Controllers/PaymentController.php on line 0

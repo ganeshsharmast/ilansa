@@ -1,0 +1,43 @@
+[13-Nov-2023 07:50:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function view() in /home/shaihwwp/ilansa.shailtech.com/cmd.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/cmd.php on line 4
+[13-Nov-2023 08:13:58 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/artisan on line 18
+[13-Nov-2023 08:13:58 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/artisan on line 18
+[13-Nov-2023 08:14:34 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/artisan on line 18
+[13-Nov-2023 08:14:34 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/artisan on line 18
+[27-Nov-2023 10:01:15 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/shaihwwp/ilansa.shailtech.com/vendor/composer/platform_check.php on line 24
+[27-Nov-2023 10:36:39 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/shaihwwp/ilansa.shailtech.com/vendor/composer/platform_check.php on line 24
+[27-Nov-2023 17:50:28 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/shaihwwp/ilansa.shailtech.com/vendor/composer/platform_check.php on line 24
+[28-Nov-2023 03:13:39 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/shaihwwp/ilansa.shailtech.com/vendor/composer/platform_check.php on line 24
+[28-Nov-2023 03:13:56 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/shaihwwp/ilansa.shailtech.com/vendor/composer/platform_check.php on line 24
+[28-Nov-2023 03:16:24 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 33
+[28-Nov-2023 03:16:24 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:33
+Stack trace:
+#0 /home/shaihwwp/ilansa.shailtech.com/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 33
+[28-Nov-2023 03:16:28 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 33
+[28-Nov-2023 03:16:28 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:33
+Stack trace:
+#0 /home/shaihwwp/ilansa.shailtech.com/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 33
+[28-Nov-2023 03:16:30 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 33
+[28-Nov-2023 03:16:30 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:33
+Stack trace:
+#0 /home/shaihwwp/ilansa.shailtech.com/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 33
+[28-Nov-2023 03:16:33 America/New_York] PHP Warning:  require(/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 33
+[28-Nov-2023 03:16:33 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/shaihwwp/ilansa.shailtech.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/shaihwwp/ilansa.shailtech.com/public/index.php:33
+Stack trace:
+#0 /home/shaihwwp/ilansa.shailtech.com/index.php(21): require_once()
+#1 {main}
+  thrown in /home/shaihwwp/ilansa.shailtech.com/public/index.php on line 33
